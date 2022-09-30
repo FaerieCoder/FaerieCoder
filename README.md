@@ -5,7 +5,6 @@
 
 ## About me 🍧
 
-- I go by two names: Isabelle or Loariya-Fiaba 🐇
 - I am a Software Developer Technician apprentice at Griffiths & Armour 🏢
 - Learning mostly from home 🏡
 - I want to become a Frontend Developer and work up from there 🌠
