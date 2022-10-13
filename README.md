@@ -7,7 +7,7 @@
 
 - I am a Software Developer Technician apprentice at Griffiths & Armour 🏢
 - Learning mostly from home 🏡
-- I want to become a Frontend Developer and work up from there 🌠
+- I want to become a Frontend Developer and work my way up from there 🌠
 <br>
 
 <h2 align="center"> What I am learning in my apprenticeship 📑 </h2>
