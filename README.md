@@ -54,7 +54,7 @@
   <summary>✧*̥˚ expand me here *̥˚✧</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FaerieCoder" alt="Read" height="200" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaerieCoder&theme=pink-green" alt="Read" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xiacodes" alt="Read" height="200" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&theme=pink-green" alt="Read" height="200"/>
   </div>
 </details>
