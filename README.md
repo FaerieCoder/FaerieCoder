@@ -54,7 +54,7 @@
   <summary>✧*̥˚ expand me here *̥˚✧</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiacodes" alt="Read" height="200" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&theme=pink-green" alt="Read" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xiacodes" alt="Read" width="400" /> <br>
+    <img src="https://api.githubtrends.io/user/svg/xiacodes/langs?time_range=one_year&use_percent=True&include_private=True&theme=synthwaves" alt="Read" width="400"/>
   </div>
 </details>
