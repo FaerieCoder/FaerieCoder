@@ -50,11 +50,8 @@
 <br>
 
 <h2 align="center"> Graphs 📊 </h2>
-<details>
-  <summary>✧*̥˚ expand me here *̥˚✧</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiacodes" alt="Read" width="400" /> <br>
-    <img src="https://api.githubtrends.io/user/svg/xiacodes/langs?time_range=one_year&use_percent=True&include_private=True&theme=synthwaves" alt="Read" width="400"/>
-  </div>
-</details>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=dracula)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiacodes)](https://github.com/anuraghazra/github-readme-stats)
+
