@@ -1,13 +1,12 @@
-<h1 align="center"> Hello, my name is Isabelle (Loariya-Fiaba) Zennah 👋🏽 </h1>
+<h1 align="center"> Hello, my name is Isabelle (Loariya-Fiaba) Zennah 🙌🏾 </h1>
 <p align="center">
   <img src="girl_gif.gif?raw=true" alt="Sublime's custom image"/>
 </p>
 
-## About me 🍧
-
-- I am a Software Developer Technician apprentice at Griffiths & Armour 🏢
-- Learning mostly from home 🏡
-- I want to become a Frontend Developer and work my way up from there 🌠
+<h2 align="center"> About me 🍧 </h2>
+<li>I am a Software Developer Technician apprentice at Griffiths & Armour 🏢</li>
+<li>I want to become a Frontend Developer and work my way up from there 🌠</li>
+<li>Learning mostly from home 🏡</li>
 <br>
 
 <h2 align="center"> What I am learning in my apprenticeship 📑 </h2>
@@ -25,21 +24,23 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Read"/> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Read"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Read"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Read"/> 
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Read"/> 
 </div>
 <br>
 
-<h2 align="center"> What I want to learn in the future 😎</h2>
+<!-- <h2 align="center"> What I want to learn in the future 😎</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Read"/> 
+  
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Read"/> 
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Read"/>
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Read"/> 
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Read"/> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Read"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Read"/> 
+  
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Read"/>
 </div>
-<br>
+<br> -->
 
 <h2 align="center"> 💻 IDE </h2>
 <div align="center">
@@ -49,11 +50,11 @@
 </div>
 <br>
 
-<h2 align="center"> Graphs 📊 </h2>
-<br>
 
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiacodes)](https://github.com/anuraghazra/github-readme-stats)
-><a href="https://github.com/anuraghazra/github-readme-stats" style="text-align: center;">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&layout=compact" />
-</a>
+
+<h2 align="center"> 📊 Stats </h2>
+<br>
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&showIcons=false&Title=DD89A1&Text=5F444E8F&Background=DDB0B052&Ring=DD8BA0">    <img  alt="xiacodes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xiacodes?cardType=level&showIcons=false&Title=DD89A1&Text=5F444E8F&Background=DDB0B052&Ring=DD8BA0" />  </a>
+</div>
+  
