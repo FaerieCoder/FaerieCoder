@@ -52,6 +52,8 @@
 <h2 align="center"> Graphs 📊 </h2>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=dracula)
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=dracula)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiacodes)](https://github.com/anuraghazra/github-readme-stats)
-
+><a href="https://github.com/anuraghazra/github-readme-stats" style="text-align: center;">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&layout=compact" />
+</a>
