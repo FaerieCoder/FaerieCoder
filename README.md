@@ -55,6 +55,5 @@
 <h2 align="center"> 📊 Stats </h2>
 <br>
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&showIcons=false&Title=DD89A1&Text=5F444E8F&Background=DDB0B052&Ring=DD8BA0">    <img  alt="xiacodes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xiacodes?cardType=level&showIcons=false&Title=DD89A1&Text=5F444E8F&Background=DDB0B052&Ring=DD8BA0" />  </a>
+  <a href="https://streak-stats.demolab.com?user=xiacodes&theme=prussian&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&mode=weekly&background=FFB9CF&stroke=D298AA&ring=E690AD&fire=FFEDC4&currStreakNum=FFEDC4&sideNums=FFEDC4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B67289">    <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&theme=prussian&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&mode=weekly&background=FFB9CF&stroke=D298AA&ring=E690AD&fire=FFEDC4&currStreakNum=FFEDC4&sideNums=FFEDC4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B67289" />  </a>
 </div>
-  
