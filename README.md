@@ -55,5 +55,5 @@
 <h2 align="center"> 📊 Stats </h2>
 <br>
 <div align="center">
-  <a href="https://streak-stats.demolab.com?user=xiacodes&theme=prussian&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&mode=weekly&background=FFB9CF&stroke=D298AA&ring=E690AD&fire=FFEDC4&currStreakNum=FFEDC4&sideNums=FFEDC4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B67289">    <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&theme=prussian&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&mode=weekly&background=FFB9CF&stroke=D298AA&ring=E690AD&fire=FFEDC4&currStreakNum=FFEDC4&sideNums=FFEDC4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B67289" />  </a>
+  <a href="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30">    <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30" />  </a>
 </div>
