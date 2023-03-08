@@ -7,6 +7,8 @@
 <li>I am a Software Developer Technician apprentice at Griffiths & Armour 🏢</li>
 <li>I want to become a Frontend Developer and work my way up from there 🌠</li>
 <li>Learning mostly from home 🏡</li>
+<li> I'm a Software Development Technician apprentice sharing
+her coding journey and giving back to the community!</li>
 <br>
 
 <h2 align="center"> What I am learning in my apprenticeship 📑 </h2>
