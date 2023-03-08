@@ -1,15 +1,86 @@
-<h1 align="center"> Hello, my name is Isabelle (Loariya-Fiaba) Zennah 🙌🏾 </h1>
 <p align="center">
-  <img src="girl_gif.gif?raw=true" alt="Sublime's custom image"/>
+  <img width=900 src="profile-banner.png" alt="Sublime's custom image"/>
 </p>
 
-<h2 align="center"> About me 🍧 </h2>
-<li>I am a Software Developer Technician apprentice at Griffiths & Armour 🏢</li>
-<li>I want to become a Frontend Developer and work my way up from there 🌠</li>
-<li>Learning mostly from home 🏡</li>
-<li> I'm a Software Development Technician apprentice sharing
-her coding journey and giving back to the community!</li>
-<br>
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img width=800 src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&pause=1000&color=986056&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Learning+and+building+things+that+interest+me!+%F0%9F%99%8C%F0%9F%8F%BE" alt="Typing SVG" />
+		</a>
+</div>
+
+<!-- The social media badges -->
+<div align="center">
+  <a href="https://dev.to/xiacodes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xiacodes" height="50" width="40" />
+   </a>
+   
+  <a href="https://twitter.com/xiacodes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xiacodes twitter account" height="50" width="40" />
+    </a>
+
+  <a href="https://linkedin.com/in/isabelle-zennah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiacodes linkedin account" height="30" width="40" />
+    </a>
+    
+  <a href="https://xiacodes.tumblr.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="xiacodes tumblr blog account" height="30" width="40" />
+    </a>
+    
+  <a href="https://instagram.com/_xiacodes_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiacodes instagram account" height="35" width="40" />
+    </a>
+</div>
+
+-------
+<!--
+<div align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=radical"/>
+</div>
+<div align="right">
+<h3>Latest Blog Posts</h3>
+  <ul>
+	<li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
+	<li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
+	<li><a href="https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
+	<li><a href="https://xiacodes.tumblr.com/post/709258248010842112/crud-operations-in-programming">CRUD Operations in Programming!</a></li>
+	<li><a href="https://xiacodes.tumblr.com/post/708360967027818496/css-sass-scss-and-less">CSS, Sass, SCSS and LESS?</a></li>
+  </ul>
+</div> https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=10.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30  
+
+LINKS:
+- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+https://github.com/anuraghazra/github-readme-stats#themes
+
+Add this later!!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=radical&hide_border=true&border_radius=12.7" />
+ -->
+ 
+ 
+<img align="right" width=320 src="https://gifdb.com/images/high/brown-aesthetic-train-xtypg4id5jpqjogf.gif" />
+<h3>Latest Blog Posts</h3>
+<ul>
+<li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
+<li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
+<li><a href="https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
+<li><a href="https://xiacodes.tumblr.com/post/709258248010842112/crud-operations-in-programming">CRUD Operations in Programming!</a></li>
+<li><a href="https://xiacodes.tumblr.com/post/708360967027818496/css-sass-scss-and-less">CSS, Sass, SCSS and LESS?</a></li>
+</ul>
+
+  
+
+
+
+
+-----
+
+<!--
+📕 &nbsp;
+- [Basics of HTML5: Let’s build a webpage!](https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage)
+- [Technology Stacks in Software Development](https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development)
+- [Why You Should Never Stop Learning as a Programmer](https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer)
+- [CRUD Operations in Programming](https://xiacodes.tumblr.com/post/709258248010842112/crud-operations-in-programming)
+- [CSS, Sass, SCSS and LESS?](https://xiacodes.tumblr.com/post/708360967027818496/css-sass-scss-and-less)
+-->
 
 <h2 align="center"> What I am learning in my apprenticeship 📑 </h2>
 <div align="center">
@@ -53,9 +124,37 @@ her coding journey and giving back to the community!</li>
 <br>
 
 
+<details>
+  <summary>
+    <h3>☕ GitHub Stats</h3>
+   </summary>
+  <br/>
+  <div align="center">
+    <a href="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30">
+      <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30" />
+    </a>
+	 <a href="https://github.com/anuraghazra/github-readme-stats">
+	 	<img height=195 alt="Xiacodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10.7&bg_color=DFD0BB&text_color=4d4036&title_color=86664F&icon_color=4d4036&hide=Jupyter%20Notebook,Roff" height="192px"/>
+	</a>
+  </div>
+</details>
 
-<h2 align="center"> 📊 Stats </h2>
-<br>
-<div align="center">
-  <a href="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30">    <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30" />  </a>
-</div>
+<details>
+
+  <summary>
+    <h3>📜 My Favoruite Projects</h3>
+   </summary>
+  <br/>
+  <div align="center">
+  	<a href="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&theme=moltack">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&theme=moltack"/>
+	</a>
+	<a href="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&theme=moltack">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&theme=moltack"/>
+	</a>
+	<a href="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&theme=moltack">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&theme=moltack"/>
+	</a>
+  </div>
+
+</details>
