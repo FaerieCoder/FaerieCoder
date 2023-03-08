@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=900 src="profile-banner.png" alt="Sublime's custom image"/>
+  <img width=900 src="profile-banner-1.png" alt="Sublime's custom image"/>
 </p>
 
 <div align="center">
@@ -32,32 +32,22 @@
 </div>
 
 -------
-<!--
-<div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=radical"/>
-</div>
-<div align="right">
-<h3>Latest Blog Posts</h3>
-  <ul>
-	<li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
-	<li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
-	<li><a href="https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
-	<li><a href="https://xiacodes.tumblr.com/post/709258248010842112/crud-operations-in-programming">CRUD Operations in Programming!</a></li>
-	<li><a href="https://xiacodes.tumblr.com/post/708360967027818496/css-sass-scss-and-less">CSS, Sass, SCSS and LESS?</a></li>
-  </ul>
-</div> https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=10.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30  
 
-LINKS:
-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-https://github.com/anuraghazra/github-readme-stats#themes
+<p align="justify">
+I'm currently achieving my dreams as becoming a developer by an apprentice at Griffiths & Armour, where I'm constantly learning and honing my programming skills. But that's not all - I'm also an adventurer at heart! I have a burning passion for exploring new programming languages and creating exciting projects that keep me on my toes! </p>
 
-Add this later!!
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&show_icons=true&theme=radical&hide_border=true&border_radius=12.7" />
- -->
+<p align="justify">To keep my family, friends, and followers updated on my journey, I share my exciting progress on <a href="https://xiacodes.tumblr.com/">my blog</a> and <a href="https://instagram.com/_xiacodes_">Instagram!</a>, where I love to show off my latest projects and give a sneak peek into my daily life. But here's the kicker - I'm not just about self-promotion! I'm a firm believer in giving back to the community that's helped me along the way. So, I regularly create fun, informative content on <a href="https://xiacodes.tumblr.com/">my blog</a> that covers everything from the latest tech to programming hacks to innovative studying techniques!</p>
+
+<h3>🦔 Currently I am...</h3>
+<ul>
+<li>Learning: Lua!</li>
+<li>Working on: <a href="https://github.com/xiacodes/CSharp-Console-Apps">C# Console Applications Collection</a></li>
+</ul>
  
+ -----
  
-<img align="right" width=280 src="https://gifdb.com/images/high/brown-aesthetic-train-xtypg4id5jpqjogf.gif" />
-<h3>Latest Blog Posts</h3>
+<img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&theme=moltack&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
+<h3>🥥 Latest Blog Posts</h3>
 <ul>
 <li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
@@ -66,54 +56,25 @@ Add this later!!
 <li><a href="https://xiacodes.tumblr.com/post/708360967027818496/css-sass-scss-and-less">CSS, Sass, SCSS and LESS?</a></li>
 </ul>
 
-  
-
-
-
-
 -----
 
-<h2 align="center"> What I am learning in my apprenticeship 📑 </h2>
+<h2 align="center">💼 Languages and technologies I use</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Read"/> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Read"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Read"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Read"/> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Read"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Read"/> 
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Read"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Read"/>
-</div>
-<br>
-
-<h2 align="center"> Currently learning by myself 🧑🏽‍💻 </h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Read"/> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Read"/> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Read"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Read"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Read"/> 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Read"/> 
-</div>
-<br>
-
-<!-- <h2 align="center"> What I want to learn in the future 😎</h2>
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Read"/> 
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Read"/>
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Read"/> 
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Read"/> 
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Read"/>
-  
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Read"/>
-</div>
-<br> -->
-
-<h2 align="center"> 💻 IDE </h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Read"/> 
+   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Read"/> 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Read"/> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Read"/>
 </div>
 <br>
 
+------
 
 <details>
   <summary>
@@ -126,6 +87,14 @@ Add this later!!
     </a>
 	 <a href="https://github.com/anuraghazra/github-readme-stats">
 	 	<img height=195 alt="Xiacodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10.7&bg_color=DFD0BB&text_color=4d4036&title_color=86664F&icon_color=4d4036&hide=Jupyter%20Notebook,Roff" height="192px"/>
+	</a>
+  </div>
+  
+  <br>
+  
+   <div align="center">
+  	<a href="https://github-profile-trophy.vercel.app/?username=xiacodes&theme=moltack&no-frame=false&no-bg=false&margin-w=4">
+		<img src="https://github-profile-trophy.vercel.app/?username=xiacodes&theme=moltack&no-frame=false&no-bg=false&margin-w=4"/>
 	</a>
   </div>
 </details>
