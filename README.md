@@ -5,7 +5,7 @@
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img width=800 src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&pause=1000&color=986056&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Learning+and+building+things+that+interest+me!+%F0%9F%99%8C%F0%9F%8F%BE" alt="Typing SVG" />
-		</a>
+	</a>
 </div>
 
 <!-- The social media badges -->
@@ -56,7 +56,7 @@ Add this later!!
  -->
  
  
-<img align="right" width=250 src="https://gifdb.com/images/high/brown-aesthetic-train-xtypg4id5jpqjogf.gif" />
+<img align="right" width=280 src="https://gifdb.com/images/high/brown-aesthetic-train-xtypg4id5jpqjogf.gif" />
 <h3>Latest Blog Posts</h3>
 <ul>
 <li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
