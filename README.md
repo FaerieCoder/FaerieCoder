@@ -49,11 +49,11 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 <img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&theme=moltack&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
 <h3>🥥 Latest Blog Posts</h3>
 <ul>
+<li><a href="https://xiacodes.tumblr.com/post/711694806619963392/fundamentals-of-programming">Fundamentals of Programming!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/709258248010842112/crud-operations-in-programming">CRUD Operations in Programming!</a></li>
-<li><a href="https://xiacodes.tumblr.com/post/708360967027818496/css-sass-scss-and-less">CSS, Sass, SCSS and LESS?</a></li>
 </ul>
 
 -----
