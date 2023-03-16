@@ -103,17 +103,17 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 <details>
 
   <summary>
-    <h3>📜 My Favoruite Projects</h3>
+    <h3>📜 My Favourite Projects</h3>
    </summary>
   <br/>
   <div align="center">
-  	<a href="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&theme=moltack">
+  	<a href="https://github.com/xiacodes/TumblrTextTint">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&theme=moltack"/>
 	</a>
-	<a href="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&theme=moltack">
+	<a href="https://github.com/xiacodes/CSharp-Console-Apps">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&theme=moltack"/>
 	</a>
-	<a href="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&theme=moltack">
+	<a href="https://github.com/xiacodes/Py-Story-Generator">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&theme=moltack"/>
 	</a>
   </div>
