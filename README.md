@@ -3,16 +3,14 @@
 </p>
 
 <div align="center">
-	<a href="https://git.io/typing-svg">
-		<img width=800 src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&pause=1000&color=986056&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Learning+and+building+things+that+interest+me!+%F0%9F%99%8C%F0%9F%8F%BE" alt="Typing SVG" />
-	</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=25&pause=1000&color=F760AF&background=4543FF00&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B7+Having+fun+programming!+%F0%9F%92%97" alt="Typing SVG" /></a>
 </div>
 
 <!-- The social media badges -->
 <div align="center">
-  <a href="https://dev.to/xiacodes" target="blank">
+<!--   <a href="https://dev.to/xiacodes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xiacodes" height="50" width="40" />
-   </a>
+   </a> -->
    
   <a href="https://twitter.com/xiacodes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xiacodes twitter account" height="50" width="40" />
@@ -38,7 +36,7 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 
 <p align="justify">To keep my family, friends, and followers updated on my journey, I share my exciting progress on <a href="https://xiacodes.tumblr.com/">my blog</a> and <a href="https://instagram.com/_xiacodes_">Instagram!</a>, where I love to show off my latest projects and give a sneak peek into my daily life. But here's the kicker - I'm not just about self-promotion! I'm a firm believer in giving back to the community that's helped me along the way. So, I regularly create fun, informative content on <a href="https://xiacodes.tumblr.com/">my blog</a> that covers everything from the latest tech to programming hacks to innovative studying techniques!</p>
 
-<h3>🦔 Currently I am...</h3>
+<h3>🌷 Currently I am...</h3>
 <ul>
 <li>Learning: Lua!</li>
 <li>Working on: <a href="https://github.com/xiacodes/Web-Odyssey">Web Odyssey - Windows 95/2000 themed website</a></li>
@@ -46,19 +44,20 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
  
  -----
  
-<img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&theme=moltack&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
-<h3>🥥 Latest Blog Posts</h3>
+<img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&ring_color=fff&bg_color=ffcae9&title_color=fff&text_color=9db4ee&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
+<h3>🌸 Latest Blog Posts</h3>
 <ul>
+<li><a href="https://xiacodes.tumblr.com/post/717026835870990336/dynamically-vs-statically-typed-programming">Dynamically vs Statically-Typed Programming Languages!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/711694806619963392/fundamentals-of-programming">Fundamentals of Programming!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
 <li><a href="https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
-<li><a href="https://xiacodes.tumblr.com/post/709258248010842112/crud-operations-in-programming">CRUD Operations in Programming!</a></li>
 </ul>
+<a href="https://xiacodes.tumblr.com/tagged/xc%3A%20programming%20blog%20post"><i>Read more...</i></a>
 
 -----
 
-<h2 align="center">💼 Languages and technologies I use</h2>
+<h2 align="center">🦩 Languages and technologies I use</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Read"/> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Read"/>
@@ -79,15 +78,15 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 
 <details>
   <summary>
-    <h3>☕ GitHub Stats</h3>
+    <h3>🩰 GitHub Stats</h3>
    </summary>
   <br/>
   <div align="center">
-    <a href="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30">
-      <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%20M%5B%20Y%5D&background=DFD0BB&currStreakNum=86664F&sideNums=86664F&ring=D5AA8B&fire=6D543E&currStreakLabel=CBAF7F&stroke=774F30" />
+    <a href="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%2Fn%5B%2FY%5D&background=FFCAE9&border=EB545400&ring=FFFFFF&fire=45CDAA&currStreakNum=EB6499&currStreakLabel=EB6499&sideNums=EB6499&sideLabels=A195EB">
+      <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%2Fn%5B%2FY%5D&background=FFCAE9&border=EB545400&ring=FFFFFF&fire=45CDAA&currStreakNum=EB6499&currStreakLabel=EB6499&sideNums=EB6499&sideLabels=A195EB" />
     </a>
 	 <a href="https://github.com/anuraghazra/github-readme-stats">
-	 	<img height=195 alt="Xiacodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10.7&bg_color=DFD0BB&text_color=4d4036&title_color=86664F&icon_color=4d4036&hide=Jupyter%20Notebook,Roff" height="192px"/>
+	 	<img height=195 alt="Xiacodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10.7&bg_color=ffcae9&text_color=9466ba&title_color=fff&icon_color=4d4036&hide=Jupyter%20Notebook,Roff" height="192px"/>
 	</a>
   </div>
   
@@ -103,18 +102,18 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 <details>
 
   <summary>
-    <h3>📜 My Favourite Projects</h3>
+    <h3>🧁 My Favourite Projects</h3>
    </summary>
   <br/>
   <div align="center">
   	<a href="https://github.com/xiacodes/TumblrTextTint">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&theme=moltack"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&bg_color=ffcae9&title_color=fff&text_color=9db4eek"/>
 	</a>
 	<a href="https://github.com/xiacodes/CSharp-Console-Apps">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&theme=moltack"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=fff"/>
 	</a>
 	<a href="https://github.com/xiacodes/Py-Story-Generator">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&theme=moltack"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&bg_color=9db4ee&title_color=fff&text_color=fff"/>
 	</a>
   </div>
 
