@@ -38,8 +38,8 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 
 <h3>🌷 Currently I am...</h3>
 <ul>
-<li>Learning: Lua!</li>
-<li>Working on: <a href="https://github.com/xiacodes/Web-Odyssey">Web Odyssey - Windows 95/2000 themed website</a></li>
+<li>Learning: Python and Django!</li>
+<li>Working on: <a href="https://github.com/xiacodes/3Days1Project" target="_blank">the #3Days1Project challenge</a> and building a simple to-do application in Django!</li>
 </ul>
  
  -----
