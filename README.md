@@ -112,8 +112,8 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 	<a href="https://github.com/xiacodes/CSharp-Console-Apps">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=fff"/>
 	</a>
-	<a href="https://github.com/xiacodes/Py-Story-Generator">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=Py-Story-Generator&bg_color=9db4ee&title_color=fff&text_color=fff"/>
+	<a href="https://github.com/xiacodes/3Days1Project">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=3Days1Project&bg_color=9db4ee&title_color=fff&text_color=fff"/>
 	</a>
   </div>
 
