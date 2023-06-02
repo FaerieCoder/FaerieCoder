@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img width=900 src="profile-banner-1.png" alt="Sublime's custom image"/>
-</p>
+</p> -->
 
 <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=25&pause=1000&color=F760AF&background=4543FF00&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B7+Having+fun+programming!+%F0%9F%92%97" alt="Typing SVG" /></a>
