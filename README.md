@@ -57,9 +57,8 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 
 -----
 
-<h2 align="center">🦩 Languages And Technologies</h2>
 <details>
-	<summary><h3>👀 Take a peek!</h3></summary>
+	<summary><h3>🦩 Languages And Technologies</h3></summary>
 <div align="center">
 <h3>Web Development</h3>
 <div>
@@ -98,8 +97,6 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 </div>
 	
 </details>
-
-------
 
 <details>
   <summary>
