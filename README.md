@@ -39,7 +39,7 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 <h3>🌷 Currently I am...</h3>
 <ul>
 <li>Learning: Python and Django!</li>
-<li>Working on: <a href="https://github.com/xiacodes/3Days1Project" target="_blank">The #3Days1Project challenge</a> and building a simple to-do application in Django!</li>
+<li>Working on: <a href="https://github.com/xiacodes/3Days1Project" target="_blank">The #3Days1Project challenge</a> and <a href="https://github.com/xiacodes/To-Do-Application-KawaiiCatBytes" title=" To-Do Application | KawaiiCatBytes Collection" target="_blank">building a simple to-do application in Django</a>!</li>
 </ul>
  
  -----
