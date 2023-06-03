@@ -97,8 +97,7 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 
 </div>
 	
-</details>	
-<br>
+</details>
 
 ------
 
