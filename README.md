@@ -39,7 +39,7 @@ I'm currently achieving my dreams as becoming a developer by starting off as an 
 <h3>🌷 Currently I am...</h3>
 <ul>
 <li>Learning: Python and Django!</li>
-<li>Working on: <a href="https://github.com/xiacodes/Codecademy-Computer-Science" target="_blank" title="Link to the repo's page!">Codecademy's Computer Science course projects!</a>!</li>
+<li>Working on: <a href="https://github.com/xiacodes/Codecademy-Computer-Science" target="_blank" title="Link to the repo's page!">Codecademy's Computer Science course projects</a>!</li>
 </ul>
  
  -----
