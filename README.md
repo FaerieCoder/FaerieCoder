@@ -39,7 +39,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 <h3>🌷 Currently I am...</h3>
 <ul>
 <li>Learning: Python and Django!</li>
-<li>Working on: <a href="https://github.com/xiacodes/thequizapp" target="_blank" title="Link to the repo's page!">The Quiz App - Open Source project!</a></li>
+<li>Working on: <a href="https://github.com/xiacodes/thequizapp" target="_blank" title="Link to the repo's page!">The Quiz App - Open Source project!</a> and <a href="https://github.com/xiacodes/Froggie-To-Do" target="_blank" title="Link to the repo's page!">Froggie To-Do - React.js web app!</a></li>
 </ul>
  
  -----
@@ -78,7 +78,8 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 <div>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django badge"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Read"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Read"	
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Read"	/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" title="React.js"	/>
 </div>
 
 <h3>Development Tools and Environments</h3>
