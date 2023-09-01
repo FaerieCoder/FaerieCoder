@@ -38,7 +38,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 
 <h3>🌷 Currently I am...</h3>
 <ul>
-<li>Learning: Python and Django!</li>
+<li>Learning: React.js and WordPress!</li>
 <li>Working on: <a href="https://github.com/xiacodes/thequizapp" target="_blank" title="Link to the repo's page!">The Quiz App - Open Source project!</a> and <a href="https://github.com/xiacodes/Froggie-To-Do" target="_blank" title="Link to the repo's page!">Froggie To-Do - React.js web app!</a></li>
 </ul>
  
