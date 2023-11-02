@@ -11,19 +11,15 @@
 <!--   <a href="https://dev.to/xiacodes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xiacodes" height="50" width="40" />
    </a> -->
-   
-  <a href="https://twitter.com/xiacodes" target="blank">
+  <a href="https://twitter.com/studyizzyloa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xiacodes twitter account" height="50" width="40" />
-    </a>
-
+  </a>
   <a href="https://linkedin.com/in/isabelle-zennah" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiacodes linkedin account" height="30" width="40" />
     </a>
-    
   <a href="https://xiacodes.tumblr.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="xiacodes tumblr blog account" height="30" width="40" />
     </a>
-    
   <a href="https://instagram.com/_xiacodes_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiacodes instagram account" height="35" width="40" />
     </a>
@@ -32,14 +28,14 @@
 -------
 
 <p align="justify">
-I'm currently achieving my dreams of becoming a developer by starting off as an apprentice at <a href="https://www.griffithsandarmour.com/">Griffiths & Armour</a>, where I'm constantly learning and honing my programming skills. But that's not all - I'm also an adventurer at heart! I have a burning passion for exploring new programming languages and creating exciting projects that keep me on my toes! </p>
+I'm currently achieving my dreams of becoming a developer by starting off as an apprentice at <a href="https://www.griffithsandarmour.com/">Griffiths & Armour</a>, where I was constantly learning and honing my programming skills. But that's not all - I'm also an adventurer at heart! I have a burning passion for exploring new programming languages and creating exciting projects that keep me on my toes! </p>
 
 <p align="justify">To keep my family, friends, and followers updated on my journey, I share my exciting progress on <a href="https://xiacodes.tumblr.com/">my blog</a> and <a href="https://instagram.com/_xiacodes_">Instagram!</a>, where I love to show off my latest projects and give a sneak peek into my daily life. But here's the kicker - I'm not just about self-promotion! I firmly believe in giving back to the community that's helped me along the way. So, I regularly create fun, informative content on <a href="https://xiacodes.tumblr.com/">my blog</a> that covers everything from the latest tech to programming hacks to innovative studying techniques!</p>
 
 <h3>🌷 Currently I am...</h3>
 <ul>
-<li>Learning: React.js and WordPress!</li>
-<li>Working on: <a href="https://github.com/xiacodes/thequizapp" target="_blank" title="Link to the repo's page!">The Quiz App - Open Source project!</a> and <a href="https://github.com/xiacodes/Froggie-To-Do" target="_blank" title="Link to the repo's page!">Froggie To-Do - React.js web app!</a></li>
+<li>Learning: React.js, WordPress and creating widgets!</li>
+<li>Working on: <a href="https://github.com/xiacodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
 </ul>
  
  -----
@@ -129,15 +125,19 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
    </summary>
   <br/>
   <div align="center">
+	  <a href="https://github.com/xiacodes/top-priorities">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=top-priorities&bg_color=B4EE9D&title_color=fff&text_color=9db4eek"/>
+	</a>
   	<a href="https://github.com/xiacodes/TumblrTextTint">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&bg_color=ffcae9&title_color=fff&text_color=9db4eek"/>
 	</a>
 	<a href="https://github.com/xiacodes/CSharp-Console-Apps">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=fff"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=9db4eek"/>
 	</a>
 	<a href="https://github.com/xiacodes/3Days1Project">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=3Days1Project&bg_color=9db4ee&title_color=fff&text_color=fff"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=3Days1Project&bg_color=9db4ee&title_color=fff&text_color=9db4eek"/>
 	</a>
+	
   </div>
 
 </details>
