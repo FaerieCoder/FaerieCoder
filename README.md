@@ -5,27 +5,11 @@
 <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=25&pause=1000&color=F760AF&background=4543FF00&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B7+Having+fun+programming!+%F0%9F%92%97" alt="Typing SVG" /></a>
 </div>
+<hr>
 
-<!-- The social media badges -->
-<div align="center">
-<!--   <a href="https://dev.to/xiacodes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xiacodes" height="50" width="40" />
-   </a> -->
-  <a href="https://twitter.com/studyizzyloa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xiacodes twitter account" height="50" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/isabelle-zennah" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiacodes linkedin account" height="30" width="40" />
-    </a>
-  <a href="https://xiacodes.tumblr.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="xiacodes tumblr blog account" height="30" width="40" />
-    </a>
-  <a href="https://instagram.com/_xiacodes_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiacodes instagram account" height="35" width="40" />
-    </a>
-</div>
+https://icons8.com/icon/25157/bookmark
 
--------
+<img src="https://icons8.com/icon/25157/bookmark" />
 
 <p align="justify">
 I'm currently achieving my dreams of becoming a developer by starting off as an apprentice at <a href="https://www.griffithsandarmour.com/">Griffiths & Armour</a>, where I was constantly learning and honing my programming skills. But that's not all - I'm also an adventurer at heart! I have a burning passion for exploring new programming languages and creating exciting projects that keep me on my toes! </p>
@@ -34,8 +18,8 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 
 <h3>🌷 Currently I am...</h3>
 <ul>
-<li>Learning: React.js, WordPress and creating widgets!</li>
-<li>Working on: <a href="https://github.com/xiacodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
+<li><b>Learning:</b> React.js, WordPress and creating widgets!</li>
+<li><b>Working on:</b> <a href="https://github.com/xiacodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
 </ul>
  
  -----
