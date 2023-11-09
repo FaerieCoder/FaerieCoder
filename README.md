@@ -7,10 +7,6 @@
 </div>
 <hr>
 
-https://icons8.com/icon/25157/bookmark
-
-<img src="https://icons8.com/icon/25157/bookmark" />
-
 <p align="justify">
 I'm currently achieving my dreams of becoming a developer by starting off as an apprentice at <a href="https://www.griffithsandarmour.com/">Griffiths & Armour</a>, where I was constantly learning and honing my programming skills. But that's not all - I'm also an adventurer at heart! I have a burning passion for exploring new programming languages and creating exciting projects that keep me on my toes! </p>
 
