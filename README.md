@@ -3,7 +3,7 @@
 </p> -->
 
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=25&pause=1000&color=F760AF&background=4543FF00&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B7+Having+fun+programming!+%F0%9F%92%97" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=25&pause=1000&color=6C6C6C&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%96%A4+Having+fun+programming!+%F0%9F%96%A4" alt="Typing SVG" /></a>
 </div>
 <hr>
 
@@ -12,7 +12,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 
 <p align="justify">To keep my family, friends, and followers updated on my journey, I share my exciting progress on <a href="https://izicodes.tumblr.com/">my blog</a> and <a href="https://instagram.com/_izicodes_">Instagram!</a>, where I love to show off my latest projects and give a sneak peek into my daily life. But here's the kicker - I'm not just about self-promotion! I firmly believe in giving back to the community that's helped me along the way. So, I regularly create fun, informative content on <a href="https://izicodes.tumblr.com/">my blog</a> that covers everything from the latest tech to programming hacks to innovative studying techniques!</p>
 
-<h3>🌷 Currently I am...</h3>
+<h3>🩶 Currently I am...</h3>
 <ul>
 <li><b>Learning:</b> React.js, WordPress and creating widgets!</li>
 <li><b>Working on:</b> <a href="https://github.com/izicodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
@@ -20,8 +20,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
  
  -----
  
-<img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=izicodes&ring_color=fff&bg_color=ffcae9&title_color=fff&text_color=9db4ee&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
-<h3>🌸 Latest Blog Posts</h3>
+<h3>💿 Latest Blog Posts</h3>
 <ul>
 <li><a href="https://izicodes.tumblr.com/post/717026835870990336/dynamically-vs-statically-typed-programming">Dynamically vs Statically-Typed Programming Languages!</a></li>
 <li><a href="https://izicodes.tumblr.com/post/711694806619963392/fundamentals-of-programming">Fundamentals of Programming!</a></li>
@@ -34,7 +33,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 -----
 
 <details>
-	<summary><h3>🦩 Languages And Technologies</h3></summary>
+	<summary><h3>🐺 Languages And Technologies</h3></summary>
 <div align="center">
 <h3>Web Development</h3>
 <div>
@@ -77,7 +76,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 
 <details>
   <summary>
-    <h3>🩰 GitHub Stats</h3>
+    <h3>🎧 GitHub Stats</h3>
    </summary>
   <br/>
   <div align="center">
@@ -101,23 +100,16 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 <details>
 
   <summary>
-    <h3>🧁 My Favourite Projects</h3>
+    <h3>🌫️ My Favourite Projects</h3>
    </summary>
   <br/>
-  <div align="center">
-	  <a href="https://github.com/izicodes/top-priorities">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=top-priorities&bg_color=B4EE9D&title_color=fff&text_color=9db4eek"/>
-	</a>
-  	<a href="https://github.com/izicodes/TumblrTextTint">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=TumblrTextTint&bg_color=ffcae9&title_color=fff&text_color=9db4eek"/>
-	</a>
-	<a href="https://github.com/izicodes/CSharp-Console-Apps">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=9db4eek"/>
-	</a>
-	<a href="https://github.com/izicodes/3Days1Project">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=3Days1Project&bg_color=9db4ee&title_color=fff&text_color=9db4eek"/>
-	</a>
-	
+  <div>
+	⊹<a href="https://github.com/izicodes/top-priorities">  Top Priorities Notion Widget</a>  ⊹ 
+	<br>
+  	⊹<a href="https://github.com/izicodes/TumblrTextTint">  TumblrTextTint</a>  ⊹
+	<br>
+	⊹<a href="https://github.com/izicodes/CSharp-Console-Apps">  Simple C# Console Apps</a>  ⊹
+	<br>
+	⊹<a href="https://github.com/izicodes/3Days1Project">  3 Days 1 Project Challenge!</a>  ⊹
   </div>
-
 </details>
