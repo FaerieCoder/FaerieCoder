@@ -17,8 +17,7 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
 <li><b>Learning:</b> React.js, WordPress and creating widgets!</li>
 <li><b>Working on:</b> <a href="https://github.com/izicodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
 </ul>
- 
- -----
+ <br>
  
 <h3>💿 Latest Blog Posts</h3>
 <ul>
