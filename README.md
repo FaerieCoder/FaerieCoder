@@ -10,26 +10,26 @@
 <p align="justify">
 I'm currently achieving my dreams of becoming a developer by starting off as an apprentice at <a href="https://www.griffithsandarmour.com/">Griffiths & Armour</a>, where I was constantly learning and honing my programming skills. But that's not all - I'm also an adventurer at heart! I have a burning passion for exploring new programming languages and creating exciting projects that keep me on my toes! </p>
 
-<p align="justify">To keep my family, friends, and followers updated on my journey, I share my exciting progress on <a href="https://xiacodes.tumblr.com/">my blog</a> and <a href="https://instagram.com/_xiacodes_">Instagram!</a>, where I love to show off my latest projects and give a sneak peek into my daily life. But here's the kicker - I'm not just about self-promotion! I firmly believe in giving back to the community that's helped me along the way. So, I regularly create fun, informative content on <a href="https://xiacodes.tumblr.com/">my blog</a> that covers everything from the latest tech to programming hacks to innovative studying techniques!</p>
+<p align="justify">To keep my family, friends, and followers updated on my journey, I share my exciting progress on <a href="https://izicodes.tumblr.com/">my blog</a> and <a href="https://instagram.com/_izicodes_">Instagram!</a>, where I love to show off my latest projects and give a sneak peek into my daily life. But here's the kicker - I'm not just about self-promotion! I firmly believe in giving back to the community that's helped me along the way. So, I regularly create fun, informative content on <a href="https://izicodes.tumblr.com/">my blog</a> that covers everything from the latest tech to programming hacks to innovative studying techniques!</p>
 
 <h3>🌷 Currently I am...</h3>
 <ul>
 <li><b>Learning:</b> React.js, WordPress and creating widgets!</li>
-<li><b>Working on:</b> <a href="https://github.com/xiacodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
+<li><b>Working on:</b> <a href="https://github.com/izicodes/top-priorities" target="_blank" title="Link to the repo's page!">'Top Priorities' Notion widget</a></li>
 </ul>
  
  -----
  
-<img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=xiacodes&ring_color=fff&bg_color=ffcae9&title_color=fff&text_color=9db4ee&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
+<img width=500 align="right" src="https://github-readme-stats.vercel.app/api?username=izicodes&ring_color=fff&bg_color=ffcae9&title_color=fff&text_color=9db4ee&hide_border=false&include_all_commits=false&count_private=true&hide=prs,contribs" />
 <h3>🌸 Latest Blog Posts</h3>
 <ul>
-<li><a href="https://xiacodes.tumblr.com/post/717026835870990336/dynamically-vs-statically-typed-programming">Dynamically vs Statically-Typed Programming Languages!</a></li>
-<li><a href="https://xiacodes.tumblr.com/post/711694806619963392/fundamentals-of-programming">Fundamentals of Programming!</a></li>
-<li><a href="https://xiacodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
-<li><a href="https://xiacodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
-<li><a href="https://xiacodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
+<li><a href="https://izicodes.tumblr.com/post/717026835870990336/dynamically-vs-statically-typed-programming">Dynamically vs Statically-Typed Programming Languages!</a></li>
+<li><a href="https://izicodes.tumblr.com/post/711694806619963392/fundamentals-of-programming">Fundamentals of Programming!</a></li>
+<li><a href="https://izicodes.tumblr.com/post/711058789559877632/basics-of-html5-lets-build-a-webpage">Basics of HTML5: Let’s build a webpage!</a></li>
+<li><a href="https://izicodes.tumblr.com/post/710424609689862144/technology-stacks-in-software-development">Technology Stacks in Software Development!</a></li>
+<li><a href="https://izicodes.tumblr.com/post/709792289937080320/why-you-should-never-stop-learning-as-a-programmer">Why You Should Never Stop Learning as a Programmer!</a></li>
 </ul>
-<a href="https://xiacodes.tumblr.com/tagged/xc%3A%20programming%20blog%20post"><i>Read more...</i></a>
+<a href="https://izicodes.tumblr.com/tagged/xc%3A%20programming%20blog%20post"><i>Read more...</i></a>
 
 -----
 
@@ -81,19 +81,19 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
    </summary>
   <br/>
   <div align="center">
-    <a href="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%2Fn%5B%2FY%5D&background=FFCAE9&border=EB545400&ring=FFFFFF&fire=45CDAA&currStreakNum=EB6499&currStreakLabel=EB6499&sideNums=EB6499&sideLabels=A195EB">
-      <img  alt="xiacodes's GitHub Stats" src="https://streak-stats.demolab.com?user=xiacodes&hide_border=true&border_radius=12.7&date_format=j%2Fn%5B%2FY%5D&background=FFCAE9&border=EB545400&ring=FFFFFF&fire=45CDAA&currStreakNum=EB6499&currStreakLabel=EB6499&sideNums=EB6499&sideLabels=A195EB" />
+    <a href="https://streak-stats.demolab.com?user=izicodes&hide_border=true&border_radius=12.7&date_format=j%2Fn%5B%2FY%5D&background=FFCAE9&border=EB545400&ring=FFFFFF&fire=45CDAA&currStreakNum=EB6499&currStreakLabel=EB6499&sideNums=EB6499&sideLabels=A195EB">
+      <img  alt="izicodes's GitHub Stats" src="https://streak-stats.demolab.com?user=izicodes&hide_border=true&border_radius=12.7&date_format=j%2Fn%5B%2FY%5D&background=FFCAE9&border=EB545400&ring=FFFFFF&fire=45CDAA&currStreakNum=EB6499&currStreakLabel=EB6499&sideNums=EB6499&sideLabels=A195EB" />
     </a>
 	 <a href="https://github.com/anuraghazra/github-readme-stats">
-	 	<img height=195 alt="Xiacodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xiacodes&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10.7&bg_color=ffcae9&text_color=9466ba&title_color=fff&icon_color=4d4036&hide=Jupyter%20Notebook,Roff" height="192px"/>
+	 	<img height=195 alt="Izicodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=izicodes&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10.7&bg_color=ffcae9&text_color=9466ba&title_color=fff&icon_color=4d4036&hide=Jupyter%20Notebook,Roff" height="192px"/>
 	</a>
   </div>
   
   <br>
   
    <div align="center">
-  	<a href="https://github-profile-trophy.vercel.app/?username=xiacodes&theme=moltack&no-frame=false&no-bg=false&margin-w=4">
-		<img src="https://github-profile-trophy.vercel.app/?username=xiacodes&theme=moltack&no-frame=false&no-bg=false&margin-w=4"/>
+  	<a href="https://github-profile-trophy.vercel.app/?username=izicodes&theme=moltack&no-frame=false&no-bg=false&margin-w=4">
+		<img src="https://github-profile-trophy.vercel.app/?username=izicodes&theme=moltack&no-frame=false&no-bg=false&margin-w=4"/>
 	</a>
   </div>
 </details>
@@ -105,17 +105,17 @@ I'm currently achieving my dreams of becoming a developer by starting off as an 
    </summary>
   <br/>
   <div align="center">
-	  <a href="https://github.com/xiacodes/top-priorities">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=top-priorities&bg_color=B4EE9D&title_color=fff&text_color=9db4eek"/>
+	  <a href="https://github.com/izicodes/top-priorities">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=top-priorities&bg_color=B4EE9D&title_color=fff&text_color=9db4eek"/>
 	</a>
-  	<a href="https://github.com/xiacodes/TumblrTextTint">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=TumblrTextTint&bg_color=ffcae9&title_color=fff&text_color=9db4eek"/>
+  	<a href="https://github.com/izicodes/TumblrTextTint">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=TumblrTextTint&bg_color=ffcae9&title_color=fff&text_color=9db4eek"/>
 	</a>
-	<a href="https://github.com/xiacodes/CSharp-Console-Apps">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=9db4eek"/>
+	<a href="https://github.com/izicodes/CSharp-Console-Apps">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=CSharp-Console-Apps&bg_color=b986e6&title_color=fff&text_color=9db4eek"/>
 	</a>
-	<a href="https://github.com/xiacodes/3Days1Project">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xiacodes&repo=3Days1Project&bg_color=9db4ee&title_color=fff&text_color=9db4eek"/>
+	<a href="https://github.com/izicodes/3Days1Project">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=izicodes&repo=3Days1Project&bg_color=9db4ee&title_color=fff&text_color=9db4eek"/>
 	</a>
 	
   </div>
